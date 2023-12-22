@@ -1,0 +1,36 @@
+[[entries]]
+title = "me"
+
+  [[entries.entries]]
+  title = "software engineer from toronto, canada now living in tokyo, japan."
+
+  [[entries.entries]]
+  title = "this site is dedicated to my thoughts, observations, and learnings about engineering, and productivity."
+
+[[entries]]
+title = "contact"
+
+  [[entries.entries]]
+  title = "email"
+  url = "mailto:musab@icloud.com"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/musab"
+
+  [[entries.entries]]
+  title = "twitter"
+  url = "https://twitter.com/barighzaai"
+
+  [[entries.entries]]
+  title = "rss"
+  url = "index.xml"
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+  
