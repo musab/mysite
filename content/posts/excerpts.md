@@ -6,6 +6,19 @@ draft = false
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
 
+### On setting priorities
+
+> I learned that we can do anything, but we can't do everything.
+
+- [Dan Millman](https://en.wikipedia.org/wiki/Dan_Millman)
+
+### On dealing with setbacks, failures, delays, defeats, or other disasters
+
+> It’s become kind of a meme, but Jocko’s “Good.” The idea being this: if you’re in a difficult situation and starting to complain about it or dislike the pain, reframe your attitude and embrace the difficulty. It’s popped into my mind in a variety of situations, ranging from walking in a snowstorm to being exhausted during a run.
+In a deeper sense, it’s made me realize that a lot of our attitudes are socially conditioned and not actually what is “natural.”
+
+- [keiferski](https://news.ycombinator.com/user?id=keiferski)
+
 ### On delivering minimal effective dose
 
 > I like the term 'minimal effective dose' (MED). The smallest dose that will produce the desired outcome. In QA this can be a manual testing plan, automated tests in the pipeline or something different. It's the right place to start.
