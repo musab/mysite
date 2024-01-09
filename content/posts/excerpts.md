@@ -152,3 +152,28 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 > - fail to actually deliver business / user value
 
 - [u/a_giant_spider](https://old.reddit.com/user/a_giant_spider)
+
+### On pessimism
+
+> He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.
+
+- The 36 Stratagems in Ancient China War: 三十六计
+
+### On sharing your work
+
+> When I was in art school, one thing I discovered was that many people believed they were defined by the work they created. If their work wasn't good, they saw it as a reflection of their skill rather than a reflection of their taste, which was actually superior to their ability.
+> 
+> You are simply the person who created the work. You are a vessel, a medium for the work, but you are not the work itself.
+> 
+> The sooner you realize this, the easier it will be to share the work you have produced, receive feedback, develop your skills, and reflect on your taste.
+
+- [Jason Lie](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#do-it-scared)
+
+### On judgment
+
+> I had so much judgment of others, but it was really just a reflection of my own judgment of myself. I was so afraid of being judged, but I was the one judging myself the most.
+
+- [Jason Lie](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#do-it-scared)
+
+
+
