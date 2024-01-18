@@ -175,5 +175,8 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - [Jason Lie](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#do-it-scared)
 
+ ### On taking action
 
+ > Conversely, the biggest mistakes of my life were mistakes of omission, not commission.
 
+- Ada Yeo
