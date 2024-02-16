@@ -180,3 +180,9 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
  > Conversely, the biggest mistakes of my life were mistakes of omission, not commission.
 
 - Ada Yeo
+
+ ### On Innovation
+
+ > Innovation is easier with small teams making decisive, concentrated bets, who don't tolerate mediocre performers. That's it.
+
+- @sama
