@@ -11,20 +11,12 @@ title = "me"
 title = "contact"
 
   [[entries.entries]]
-  title = "email"
+  title = "m@barighzaai.com"
   url = "mailto:m@barighzaai.com"
 
   [[entries.entries]]
-  title = "github"
-  url = "https://github.com/musab"
-
-  [[entries.entries]]
-  title = "twitter"
+  title = "@barighzaai"
   url = "https://twitter.com/barighzaai"
-
-  [[entries.entries]]
-  title = "rss"
-  url = "index.xml"
 
 [[entries]]
 title = "posts"
