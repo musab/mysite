@@ -186,3 +186,9 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
  > Innovation is easier with small teams making decisive, concentrated bets, who don't tolerate mediocre performers. That's it.
 
 - @sama
+
+### On deep work
+
+> Like a deep sea diver, it can take an hour to get to working depth on some problem. It is extremely disruptive to receive some random interruption, when you are working “at depth”, like being instantly pulled to the surface. You are probably unable to get back down to depth that same day afterwards. Most people not doing the particular work that we know, have no idea it’s like this.
+
+- [nickdothutton](https://news.ycombinator.com/user?id=nickdothutton)
