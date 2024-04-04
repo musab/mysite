@@ -6,6 +6,12 @@ draft = false
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
 
+### On waste is a feature
+
+> Life, which you so nobly serve, comes from destruction, disorder, and chaos. Now take this empty glass. Here it is: peaceful, serene, boring. But if it is destroyed... look at all these little things! So busy now. Notice how each one of them is useful. What a lovely ballet ensues, so full of form and color. Now, think about all those people that created them. Technicians, engineers, hundreds of people who will be able to feed their children tonight so those children can grow up big and strong and have little teeny children of their own and so on and so forth. Thus adding to the great chain of life.
+
+- [Zorg](https://www.imdb.com/title/tt0119116/)
+
 ### On setting priorities
 
 > I learned that we can do anything, but we can't do everything.
