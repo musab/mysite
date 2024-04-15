@@ -10,7 +10,7 @@ The challenge I encountered was that most of the existing documentation provided
 
 1. First, ensure that your [identity provider is supported](https://docs.gitlab.com/ee/integration/omniauth.html#supported-providers). For this example, I will outline the steps required for AWS Cognito. However, these steps should be very similar for other providers.
 
-2. The [GitLab AWS Cognito docs](https://docs.gitlab.com/ee/administration/auth/cognito.html) suggests setting up by manually editing the `/etc/gitlab/gitlab.rb` file. However, for users who have deployed GitLab using Helm Charts, this is not possible. In the Helm Chart documentation (https://docs.gitlab.com/charts/charts/globals.html#omniauth), under the 'Globals' section, they list the options that can be passed to `omniauth`. But does not include which key `omniauth` should be under. To enable `omniauth` in your Helm manifest, pass it nested under `appConfig`, as shown below:
+2. The [GitLab AWS Cognito docs](https://docs.gitlab.com/ee/administration/auth/cognito.html) suggests setting up by manually editing the `/etc/gitlab/gitlab.rb` file. However, for users who have deployed GitLab using Helm Charts, this is not possible. In the [Helm Chart documentation](https://docs.gitlab.com/charts/charts/globals.html#omniauth), under the `globals` section, they list the options that can be passed to `omniauth`. But does not include which key `omniauth` should be under. To enable `omniauth` in your Helm manifest, pass it nested under `appConfig`, as shown below:
 
 
 ```yaml
@@ -22,4 +22,4 @@ appConfig:
 		- secret: gitlab-cognito-provider
 ```
 
-3. GitLab requires the provider information to be passed in as a Kubernetes secret. The secret should match the value from `gitlab_rails['omniauth_providers']` in the [AWS Cognito integration documentation](https://docs.gitlab.com/ee/administration/auth/cognito.html).
+3. GitLab requires the provider information to be passed in as a Kubernetes secret. The secret should match the value from `gitlab_rails['omniauth_providers']` in the [AWS Cognito integration documentation](https://docs.gitlab.com/ee/administration/auth/cognito.html#configure-gitlab).
