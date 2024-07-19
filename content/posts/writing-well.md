@@ -1,7 +1,7 @@
 +++
 title = 'Jeff Bezos on writing well'
 date = 2024-05-27T16:40:29+09:00
-draft = false
+draft = true
 +++
 
 Writing clearly and effectively is crucial for communication, especially for software engineers. Here is Jeff Bezos' concise guide to improve your writing skills:
