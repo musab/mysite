@@ -1,5 +1,5 @@
 +++
-title = 'Implementing SSO on GitLab Community Edition Deployed to Kubernetes'
+title = 'implementing sso on gitlab community edition deployed to kubernetes'
 date = 2024-04-15T16:40:29+09:00
 draft = false
 +++
