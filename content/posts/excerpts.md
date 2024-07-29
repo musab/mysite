@@ -1,7 +1,7 @@
 +++
 title = 'interesting excerpts'
 date = 2022-06-05T16:14:46+09:00
-draft = false
+draft = true
 +++
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
