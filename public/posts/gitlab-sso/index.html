@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="I was recently tasked with setting up Single Sign-On (SSO) for our GitLab instance, which is deployed on our Kubernetes (EKS) instance. This deployment was carried out using GitLab&rsquo;s Helm Charts.
+The challenge I encountered was that most of the existing documentation provided instructions for setting up SSO on GitLab instances installed on a Linux box, and not for instances deployed using Helm Charts. I have documented the steps I took below:">  
+
+  <title>
+    
+      implementing sso on gitlab community edition deployed to kubernetes
+    
+  </title>
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  
+  
+  
+  <link rel="stylesheet" href="//localhost:1313/css/main.01273a70fa873b012d056499c16bb47955e0e7526c34edb73f05ca8f99f488ebc323423c6557f93f9b42a41de0448a25ce9a1ab577d0bf61e36eaf52a4979a1d.css" integrity="sha512-ASc6cPqHOwEtBWSZwWu0eVXg51JsNO23PwXKj5n0iOvDI0I8ZVf5P5tCpB3gRIolzpoatXfQv2Hjbq9SpJeaHQ==" />
+  
+</head>
+<body a="auto">
+        <main class="page-content" aria-label="Content">
+            <div class="w">
+<a href="/">..</a>
+
+
+<article>
+    <p class="post-meta">
+        <time datetime="2024-04-15 16:40:29 &#43;0900 JST">
+            2024-04-15
+        </time>
+    </p>
+
+    <h1>implementing sso on gitlab community edition deployed to kubernetes</h1>
+
+    
+
+    <p>I was recently tasked with setting up Single Sign-On (SSO) for our GitLab instance, which is deployed on our Kubernetes (EKS) instance. This deployment was carried out using <a href="https://docs.gitlab.com/charts/">GitLab&rsquo;s Helm Charts</a>.</p>
+<p>The challenge I encountered was that most of the existing documentation provided instructions for setting up SSO on GitLab instances installed on a Linux box, and not for instances deployed using Helm Charts. I have documented the steps I took below:</p>
+<ol>
+<li>
+<p>First, ensure that your <a href="https://docs.gitlab.com/ee/integration/omniauth.html#supported-providers">identity provider is supported</a>. For this example, I will outline the steps required for AWS Cognito. However, these steps should be very similar for other providers.</p>
+</li>
+<li>
+<p>The <a href="https://docs.gitlab.com/ee/administration/auth/cognito.html">GitLab AWS Cognito docs</a> suggests setting up by manually editing the <code>/etc/gitlab/gitlab.rb</code> file. However, for users who have deployed GitLab using Helm Charts, this is not possible. In the <a href="https://docs.gitlab.com/charts/charts/globals.html#omniauth">Helm Chart documentation</a>, under the <code>globals</code> section, they list the options that can be passed to <code>omniauth</code>. But does not include which key <code>omniauth</code> should be under. To enable <code>omniauth</code> in your Helm manifest, pass it nested under <code>appConfig</code>, as shown below:</p>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>appConfig:
+</span></span><span style="display:flex;"><span>	omniauth:
+</span></span><span style="display:flex;"><span>		enabled: <span style="color:#f00">true</span>
+</span></span><span style="display:flex;"><span>		allowSingleSignOn: [<span style="color:#87ceeb">&#39;cognito&#39;</span>]
+</span></span><span style="display:flex;"><span>		providers:
+</span></span><span style="display:flex;"><span>		- secret: gitlab-cognito-provider
+</span></span></code></pre></div><ol start="3">
+<li>GitLab requires the provider information to be passed in as a Kubernetes secret. The secret should match the value from <code>gitlab_rails['omniauth_providers']</code> in the <a href="https://docs.gitlab.com/ee/administration/auth/cognito.html#configure-gitlab">AWS Cognito integration documentation</a>.</li>
+</ol>
+
+</article>
+
+            </div>
+        </main>
+    </body></html>

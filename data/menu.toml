@@ -18,10 +18,20 @@ title = "contact"
   url = "https://twitter.com/barighzaai"
 
 [[entries]]
+title = "projects"
+
+  [[entries.entries]]
+  title = "ankistory.com - turn your anki cards into engaging stories"
+  url = "https://ankistory.com"
+
+  [[entries.entries]]
+  title = "japan residency guide - your comprehensive companion for navigating the complex PR application process"
+  url = "https://apps.apple.com/us/app/japan-residency-guide/id6664060595"
+
+[[entries]]
 title = "posts"
 
   [entries.post_list]
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
-  
