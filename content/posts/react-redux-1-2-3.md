@@ -4,7 +4,7 @@ date: 2017-11-28
 draft: false
 ---
 
-*Originally published on [Medium](https://medium.com/@__haqq/react-redux-1-2-3-f116fd952c7)*
+> **Heads-up:** This post is from 2017 and was originally published on [Medium](https://medium.com/@__haqq/react-redux-1-2-3-f116fd952c7). The React and Redux APIs have changed a lot since then. While the core ideas might still be interesting, please check the official [React](https://react.dev/) and [Redux](https://redux.js.org/) docs for the latest information.
 
 A lot of people I speak to say:
 
