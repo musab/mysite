@@ -29,6 +29,13 @@ title = "projects"
   url = "https://apps.apple.com/us/app/japan-residency-guide/id6664060595"
 
 [[entries]]
+title = "til"
+
+  [[entries.entries]]
+  title = "interesting excerpts and lessons learned"
+  url = "/til"
+
+[[entries]]
 title = "posts"
 
   [entries.post_list]

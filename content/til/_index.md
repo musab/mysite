@@ -1,61 +1,63 @@
 +++
-title = 'interesting excerpts'
-date = 2022-06-05T16:14:46+09:00
-draft = true
+title = "TIL"
+date = 2022-08-25T21:30:04+08:00
+draft = false
 +++
+
+*Last updated: January 23, 2026*
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
 
-### On waste is a feature
+## On waste is a feature
 
 > Life, which you so nobly serve, comes from destruction, disorder, and chaos. Now take this empty glass. Here it is: peaceful, serene, boring. But if it is destroyed... look at all these little things! So busy now. Notice how each one of them is useful. What a lovely ballet ensues, so full of form and color. Now, think about all those people that created them. Technicians, engineers, hundreds of people who will be able to feed their children tonight so those children can grow up big and strong and have little teeny children of their own and so on and so forth. Thus adding to the great chain of life.
 
 - [Zorg](https://www.imdb.com/title/tt0119116/)
 
-### On setting priorities
+## On setting priorities
 
 > I learned that we can do anything, but we can't do everything.
 
 - [Dan Millman](https://en.wikipedia.org/wiki/Dan_Millman)
 
-### On dealing with setbacks, failures, delays, defeats, or other disasters
+## On dealing with setbacks, failures, delays, defeats, or other disasters
 
-> It’s become kind of a meme, but Jocko’s “Good.” The idea being this: if you’re in a difficult situation and starting to complain about it or dislike the pain, reframe your attitude and embrace the difficulty. It’s popped into my mind in a variety of situations, ranging from walking in a snowstorm to being exhausted during a run.
-In a deeper sense, it’s made me realize that a lot of our attitudes are socially conditioned and not actually what is “natural.”
+> It's become kind of a meme, but Jocko's "Good." The idea being this: if you're in a difficult situation and starting to complain about it or dislike the pain, reframe your attitude and embrace the difficulty. It's popped into my mind in a variety of situations, ranging from walking in a snowstorm to being exhausted during a run.
+In a deeper sense, it's made me realize that a lot of our attitudes are socially conditioned and not actually what is "natural."
 
 - [keiferski](https://news.ycombinator.com/user?id=keiferski)
 
-### On delivering minimal effective dose
+## On delivering minimal effective dose
 
 > I like the term 'minimal effective dose' (MED). The smallest dose that will produce the desired outcome. In QA this can be a manual testing plan, automated tests in the pipeline or something different. It's the right place to start.
 
 - [Florian Bellmann](https://www.florianbellmann.com/blog/never-taught-qa)
 
-### On effective communication
+## On effective communication
 
 > In general, effective communication isn't about intent but about result. If you're not getting the result you're looking for then change up your communication until you do, regardless of intention.
 
 - [u/nwss00](https://old.reddit.com/r/ExperiencedDevs/comments/yibcht/mentoring_an_entitled_and_disrespectful_colleague/iuhtibl/)
 
-### On sunk cost
+## On sunk cost
 
 > If you need a machine and don't buy it, then you will ultimately find that you have paid for it and don't have it
 
 - [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford)
 
-### On how to get good advice from experts
+## On how to get good advice from experts
 
 > ask what they'd do in your situation. Many experts feel they should just tell you all the options and let you decide. But they usually know which is the right one, and asking what they'd do gives them permission to tell you.
 
 - [paulg](https://twitter.com/paulg/status/1378646213113868289)
 
-### On team disagreement
+## On team disagreement
 
 > in a disagreement, try to be genuinely, deep in your heart, open to the possibility that you are wrong and they are right. even if you are objectively 100% right, you'll end up making a stronger argument for your position if you deeply understand & respect the counterargument
 
 - [@estark37](https://twitter.com/estark37/status/1377850732825640960)
 
-### On codebase code quailty
+## On codebase code quailty
 
 > What is the issue with code quality? Is there truly any noticeable impact, like frequent outages, or long development times? Or are people able to clock in, get their work done, and clock out without too much fuss?
 >
@@ -63,7 +65,7 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - [u/PurpleYoshiEgg](https://old.reddit.com/user/PurpleYoshiEgg)
 
-### On learning faster
+## On learning faster
 
 > 1. Believe in your ability to learn
 > 2. Create a custom curriculum
@@ -78,7 +80,7 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - anon
 
-### On suggesting alternative technical solutions
+## On suggesting alternative technical solutions
 
 > The reality is every decision is a trade-off. Don't like what you see?
 >
@@ -88,19 +90,19 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - [u/yougottahuckit](https://old.reddit.com/user/yougottahuckit)
 
-### On finding time for side projects
+## On finding time for side projects
 
-> It takes many hours to make what you want to make. The hours don’t suddenly appear. You have to steal them from comfort. Whatever you were doing before was comfortable. This is not. This will be really uncomfortable
+> It takes many hours to make what you want to make. The hours don't suddenly appear. You have to steal them from comfort. Whatever you were doing before was comfortable. This is not. This will be really uncomfortable
 
 - [Derek Sivers](https://sive.rs/uncomf)
 
-### On being selfless
+## On being selfless
 
-> Life is not about you. It’s about what you do for others. The faster you are able to get over yourself, the more you can do for the people who matter most. Yet external forces keep pulling you toward self-centered pursuits. From books pushing “happiness” to advertisements convincing you that consumption leads to adoration, these messages tempt you to focus inward. That is all a trap (and a load of crap).
+> Life is not about you. It's about what you do for others. The faster you are able to get over yourself, the more you can do for the people who matter most. Yet external forces keep pulling you toward self-centered pursuits. From books pushing "happiness" to advertisements convincing you that consumption leads to adoration, these messages tempt you to focus inward. That is all a trap (and a load of crap).
 
 - [Tom Rath](https://www.tomrath.org/book/its-not-about-you-a-brief-guide-to-a-meaningful-life/)
 
-### On what level do you stand your ground in difference of opinions
+## On what level do you stand your ground in difference of opinions
 
 > One really important thing is to distinguish between preference and business value. Is your opinion a choice between two mostly equivalent things?
 >
@@ -110,31 +112,31 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - [u/vansterdam_city](https://old.reddit.com/user/vansterdam_city)
 
-### On writing better
+## On writing better
 
-> One of the best advices I’ve received - write without any editing, whatever is in your head. Once you are done, then you make a break, or even let it cool for a day or two and THEN and only THEN do you go for editing and cutting down
+> One of the best advices I've received - write without any editing, whatever is in your head. Once you are done, then you make a break, or even let it cool for a day or two and THEN and only THEN do you go for editing and cutting down
 
 - [u/MihailoJoksimovic](https://www.reddit.com/r/ExperiencedDevs/comments/rh71g8/advice_on_how_to_become_a_better_writer/hopgozv/?context=1)
 
-### On burnout
+## On burnout
 
 > Burnout is a response to repeated attempts to make meaningful change while lacking the agency to do so. See problems → try to fix them → get shot down or ignored.
 
 - [@marcysutton](https://twitter.com/marcysutton/status/1292971874570256385?s=20)
 
-### On priority and urgency
+## On priority and urgency
 
 > It's tough to put this into practice. But, one good bit of advice I see repeated (and strategy I use myself) is - if you have multiple things on your plate that are "urgent" - ask your boss/manager to prioritise them rather than just staying silent and not finishing everything by the deadline.
 
 - [u/imnos](https://old.reddit.com/r/cscareerquestions/comments/rv6gpt/going_back_to_work_today_after_vacation_is_making/hr5cm06/)
 
-### On delivering quickly
+## On delivering quickly
 
 > Speed [of delivery] is mostly a factor of familiarity. Even the best developers will take some time when dealing with something unfamiliar.
 
 - [u/iamsooldithurts](https://old.reddit.com/user/iamsooldithurts)
 
-### On maintaining complex systems
+## On maintaining complex systems
 
 > With a sufficient number of users of an API,
 > it does not matter what you promise in the contract:
@@ -143,13 +145,13 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - [Hyrum Wright](https://www.hyrumslaw.com)
 
-### On achieving perfection
+## On achieving perfection
 
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
 - [Antoine de Saint-Exupéry](https://www.goodreads.com/book/show/8843.Airman_s_Odyssey)
 
-### On breaking down a greenfield project
+## On breaking down a greenfield project
 
 > The approach I take is about risk mitigation: all projects have risk, and you should start by addressing the highest risks first and work your way down. I like to think through what might make this project...
 >
@@ -159,42 +161,42 @@ In a deeper sense, it’s made me realize that a lot of our attitudes are social
 
 - [u/a_giant_spider](https://old.reddit.com/user/a_giant_spider)
 
-### On pessimism
+## On pessimism
 
 > He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.
 
 - The 36 Stratagems in Ancient China War: 三十六计
 
-### On sharing your work
+## On sharing your work
 
 > When I was in art school, one thing I discovered was that many people believed they were defined by the work they created. If their work wasn't good, they saw it as a reflection of their skill rather than a reflection of their taste, which was actually superior to their ability.
-> 
+>
 > You are simply the person who created the work. You are a vessel, a medium for the work, but you are not the work itself.
-> 
+>
 > The sooner you realize this, the easier it will be to share the work you have produced, receive feedback, develop your skills, and reflect on your taste.
 
 - [Jason Lie](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#do-it-scared)
 
-### On judgment
+## On judgment
 
 > I had so much judgment of others, but it was really just a reflection of my own judgment of myself. I was so afraid of being judged, but I was the one judging myself the most.
 
 - [Jason Lie](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/#do-it-scared)
 
- ### On taking action
+ ## On taking action
 
  > Conversely, the biggest mistakes of my life were mistakes of omission, not commission.
 
 - Ada Yeo
 
- ### On Innovation
+ ## On Innovation
 
  > Innovation is easier with small teams making decisive, concentrated bets, who don't tolerate mediocre performers. That's it.
 
 - @sama
 
-### On deep work
+## On deep work
 
-> Like a deep sea diver, it can take an hour to get to working depth on some problem. It is extremely disruptive to receive some random interruption, when you are working “at depth”, like being instantly pulled to the surface. You are probably unable to get back down to depth that same day afterwards. Most people not doing the particular work that we know, have no idea it’s like this.
+> Like a deep sea diver, it can take an hour to get to working depth on some problem. It is extremely disruptive to receive some random interruption, when you are working "at depth", like being instantly pulled to the surface. You are probably unable to get back down to depth that same day afterwards. Most people not doing the particular work that we know, have no idea it's like this.
 
 - [nickdothutton](https://news.ycombinator.com/user?id=nickdothutton)
