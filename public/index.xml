@@ -27,7 +27,7 @@
       <link>//localhost:1313/posts/react-redux-1-2-3/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/react-redux-1-2-3/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@__haqq/react-redux-1-2-3-f116fd952c7&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A lot of people I speak to say:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I understand both the point and the reason for Redux… I just get lost when trying to implement Redux into my React app.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This article is going to break down the 3 steps I use to implement Redux into my React apps. Mostly following community standards plus little of my opinion sprinkled on to help organize directories.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Heads-up:&lt;/strong&gt; This post is from 2017 and was originally published on &lt;a href=&#34;https://medium.com/@__haqq/react-redux-1-2-3-f116fd952c7&#34;&gt;Medium&lt;/a&gt;. The React and Redux APIs have changed a lot since then. While the core ideas might still be interesting, please check the official &lt;a href=&#34;https://react.dev/&#34;&gt;React&lt;/a&gt; and &lt;a href=&#34;https://redux.js.org/&#34;&gt;Redux&lt;/a&gt; docs for the latest information.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A lot of people I speak to say:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I understand both the point and the reason for Redux… I just get lost when trying to implement Redux into my React app.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
