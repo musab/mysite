@@ -4,7 +4,7 @@ date = 2022-08-25T21:30:04+08:00
 draft = false
 +++
 
-*Last updated: January 23, 2026*
+*Last updated: June 12, 2026*
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
 
@@ -200,3 +200,15 @@ In a deeper sense, it's made me realize that a lot of our attitudes are socially
 > Like a deep sea diver, it can take an hour to get to working depth on some problem. It is extremely disruptive to receive some random interruption, when you are working "at depth", like being instantly pulled to the surface. You are probably unable to get back down to depth that same day afterwards. Most people not doing the particular work that we know, have no idea it's like this.
 
 - [nickdothutton](https://news.ycombinator.com/user?id=nickdothutton)
+
+## On incentives
+
+> Never ask a barber if you need a haircut.
+
+- [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett)
+
+## On robotics
+
+> You can have much higher impact getting out of the world of bits and bytes and into that of atoms and electrons.
+
+- anon
